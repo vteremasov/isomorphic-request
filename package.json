@@ -1,0 +1,29 @@
+{
+  "name": "isomorphic-request",
+  "version": "0.0.1",
+  "description": "Application based on isomorphic-fetch and promises made for rest api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vteremasov/isomorphic-request.git"
+  },
+  "keywords": [
+    "request",
+    "ajax",
+    "jquery",
+    "isomorphic",
+    "fetch"
+  ],
+  "author": "vteremasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vteremasov/isomorphic-request/issues"
+  },
+  "homepage": "https://github.com/vteremasov/isomorphic-request#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
